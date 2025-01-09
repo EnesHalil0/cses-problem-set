@@ -1,0 +1,19 @@
+- [x] Weird Algorithm
+- [x] Missing Number
+- [x] Repetitions
+- [x] Increasing Array
+- [x] Permutations
+- [x] Number Spiral
+- [ ] Two Knights
+- [ ] Two Sets
+- [ ] Bit Strings
+- [ ] Trailing Zeros
+- [ ] Coin Piles
+- [ ] Palindrome Reorder
+- [ ] Gray Code
+- [ ] Tower of Hanoi
+- [ ] Creating Strings
+- [ ] Apple Division
+- [ ] Chessboard and Queens
+- [ ] Digit Queries
+- [ ] Grid Paths
