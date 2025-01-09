@@ -36,7 +36,7 @@ for input_file in input_files:
             print(f"Test {input_file}: PASSED")
         else:
             print(f"Test {input_file}: FAILED")
-            print(f"Expected:\n{expected_output}\nActual:\n{actual_output}")
+            # print(f"Expected:\n{expected_output}\nActual:\n{actual_output}")
     
     except Exception as e:
         print(f"Error running test {input_file}: {e}")

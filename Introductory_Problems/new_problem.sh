@@ -12,7 +12,6 @@ full_path=$base_path/$new_directory
 mkdir -p $full_path
 touch $full_path/main.cpp
 cp "$base_path/.test.py" "$full_path/test.py"
-echo $new_directory >> $base_path/problems.txt
 
 comp_command="g++ -std=c++17 -Wshadow -Wall -o main main.cpp -O2 -Wno-unused-result"
 makefile=$(printf "default:\n\t$comp_command\n\ntest:\n\tpython3 test.py")
