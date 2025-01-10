@@ -4,8 +4,8 @@
 - [x] Increasing Array
 - [x] Permutations
 - [x] Number Spiral
-- [ ] Two Knights
-- [ ] Two Sets
+- [x] Two Knights
+- [x] Two Sets
 - [ ] Bit Strings
 - [ ] Trailing Zeros
 - [ ] Coin Piles
