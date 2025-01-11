@@ -6,9 +6,9 @@
 - [x] Number Spiral
 - [x] Two Knights
 - [x] Two Sets
-- [ ] Bit Strings
-- [ ] Trailing Zeros
-- [ ] Coin Piles
+- [x] Bit Strings
+- [x] Trailing Zeros
+- [x] Coin Piles
 - [ ] Palindrome Reorder
 - [ ] Gray Code
 - [ ] Tower of Hanoi
