@@ -9,8 +9,8 @@
 - [x] Bit Strings
 - [x] Trailing Zeros
 - [x] Coin Piles
-- [X] Palindrome Reorder
-- [ ] Gray Code
+- [x] Palindrome Reorder
+- [x] Gray Code
 - [ ] Tower of Hanoi
 - [ ] Creating Strings
 - [ ] Apple Division
