@@ -13,7 +13,7 @@ mkdir -p $full_path
 touch $full_path/main.cpp
 cp "$base_path/.test.py" "$full_path/test.py"
 
-comp_command="g++ -std=c++17 -Wshadow -Wall -o main main.cpp -O2 -Wno-unused-result"
+comp_command="g++ -std=c++17 -Wshadow -Wall -o main main.cpp -O2 -Wno-unused-result -ggdb"
 makefile=$(printf "default:\n\t$comp_command\n\ntest:\n\tpython3 test.py")
 
 echo "$makefile" > $full_path/Makefile
