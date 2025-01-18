@@ -11,8 +11,8 @@
 - [x] Coin Piles
 - [x] Palindrome Reorder
 - [x] Gray Code
-- [ ] Tower of Hanoi
-- [ ] Creating Strings
+- [x] Tower of Hanoi
+- [x] Creating Strings
 - [ ] Apple Division
 - [ ] Chessboard and Queens
 - [ ] Digit Queries
